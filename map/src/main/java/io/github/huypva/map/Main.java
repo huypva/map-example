@@ -1,4 +1,4 @@
-package io.codebyexample.map;
+package io.github.huypva.map;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
